@@ -1,4 +1,4 @@
-[中文](https://github.com) | English
+[中文](https://github.com/LightningLion-Studio/.github/blob/main/profile/README_zh.md) | English
 
 
 # Information
