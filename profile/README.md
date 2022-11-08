@@ -4,3 +4,5 @@
 # Information
 
 It's Repositories for LightningLion Studio.
+
+Almost all repos are about Nai and the lightlion community.
